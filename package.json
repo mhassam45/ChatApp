@@ -7,7 +7,7 @@
     "start": "node index.js",
     "dev": "nodemon index.js"
   },
-  "author": "Hitesh Kumar",
+  "author": "Hassam",
   "license": "MIT",
   "dependencies": {
     "express": "^4.17.1",
